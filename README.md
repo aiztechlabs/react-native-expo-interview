@@ -1,2 +1,2 @@
 # react-native-expo-interview
-Created with CodeSandbox
+This is a React Native test project.
